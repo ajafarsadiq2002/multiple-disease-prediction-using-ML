@@ -17,9 +17,13 @@ The Multiple Disease Prediction project aims to create a user-friendly web appli
 The Multiple Disease Prediction web application offers the following features:
 
 1.User Input: Users can input their medical information, including age, gender, blood pressure, cholesterol levels, and other relevant factors.
+
 2.Disease Prediction: The application utilizes machine learning models to predict the likelihood of having diabetes, Parkinson's disease, and heart disease based on the inputted medical data.
+
 3.Prediction Results: The predicted disease outcomes are displayed to the user, providing an indication of the probability of each disease.
+
 4.Visualization: Visualizations are generated to highlight important features and provide insights into the prediction process.
+
 5.User-Friendly Interface: The web application offers an intuitive and user-friendly interface, making it easy for individuals without technical knowledge to use the prediction tool.
 
 **Usage**
